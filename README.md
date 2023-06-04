@@ -11,5 +11,5 @@
 # Hi there 👋
 
 
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishmaurya108&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ashishmaurya108/github-readme-stats)  
+[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishmaurya108&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ashishmaurya108/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmaurya108)](https://github.com/ashishmaurya108/github-readme-stats)  
